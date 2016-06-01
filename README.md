@@ -1,3 +1,5 @@
+# Statistical Analysis Scripts of a MUDFLOW prototype
+
 The repository contains scripts that are needed for statistical analysis of data flows
 
 
